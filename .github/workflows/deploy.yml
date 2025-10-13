@@ -7,7 +7,7 @@ on:
 
 # 允许 job 克隆 repo 并创建一个 page deployment
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -50,6 +50,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
       - name: Deploy to gh-pages branch
         uses: peaceiris/actions-gh-pages@v3
