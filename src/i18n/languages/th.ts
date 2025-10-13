@@ -35,4 +35,12 @@ export const th: Translation = {
 	[Key.author]: "ผู้เขียน",
 	[Key.publishedAt]: "เผยแพร่เมื่อ",
 	[Key.license]: "สัญญาอนุญาต",
+
+	[Key.photo]: "รูปภาพ",
+	[Key.music]: "ดนตรี",
+	[Key.game]: "เกม",
+	[Key.reading]: "การอ่าน",
+	[Key.thinking]: "ความคิด",
+	[Key.me]: "ฉัน",
+	[Key.recommend]: "แนะนำ",
 };

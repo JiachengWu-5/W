@@ -35,4 +35,12 @@ export const ko: Translation = {
 	[Key.author]: "저자",
 	[Key.publishedAt]: "게시일",
 	[Key.license]: "라이선스",
+
+	[Key.photo]: "사진",
+	[Key.music]: "음악",
+	[Key.game]: "게임",
+	[Key.reading]: "독서",
+	[Key.thinking]: "생각",
+	[Key.me]: "나",
+	[Key.recommend]: "추천",
 };
