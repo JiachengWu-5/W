@@ -48,6 +48,11 @@ export enum LinkPreset {
 	Home = 0,
 	Archive = 1,
 	About = 2,
+	Photo = 3,
+	Music = 4,
+	Recommend = 5,
+	Thinking = 6,
+	Me = 7,
 }
 
 export type NavBarLink = {
@@ -68,6 +73,8 @@ export type ProfileConfig = {
 		name: string;
 		url: string;
 		icon: string;
+		image?: string; // optional local/public image for hover/preview
+		title?: string; // optional hover text to display
 	}[];
 };
 
