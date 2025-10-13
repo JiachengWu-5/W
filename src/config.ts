@@ -57,7 +57,7 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/shu.gif", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-	name: "吴佳诚 (Jiacheng WU)",
+	name: "吴佳诚",
 	bio: "事已至此，先睡觉吧",
 	links: [
 		{
