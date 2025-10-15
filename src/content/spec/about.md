@@ -1,7 +1,6 @@
 # (￣∀￣)
 
-
-
+俺的乌托邦
 
 <!-- ::github{repo="saicaca/fuwari"}
 
