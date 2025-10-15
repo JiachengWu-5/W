@@ -1,6 +1,6 @@
 # (￣∀￣)
 
-俺的乌托邦
+一个小小的乌托邦
 
 <!-- ::github{repo="saicaca/fuwari"}
 
