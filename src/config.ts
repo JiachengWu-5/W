@@ -68,6 +68,13 @@ export const profileConfig: ProfileConfig = {
 			url: "https://space.bilibili.com/44689654?spm_id_from=333.1365.0.0",
 		},
 		{
+			name: "CloudMusic",
+			icon: "simple-icons:neteasecloudmusic", // Visit https://icones.js.org/ for icon codes
+			// You will need to install the corresponding icon set if it's not already included
+			// `pnpm add @iconify-json/<icon-set-name>`
+			url: "https://y.music.163.com/m/user?id=390857212",
+		},
+		{
 			name: "Wechat",
 			icon: "mingcute:wechat-fill", // 仍保留图标作为回退
 			url: "", // image: "assets/images/Wechat.png", // 相对于 /src 的路径，或以 / 开头表示 public 下的路径: '/images/wechat.png'
