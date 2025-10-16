@@ -37,6 +37,7 @@ export const siteConfig: SiteConfig = {
 		//   sizes: '32x32',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
 		// }
 	],
+	postsPerPage: 10, // 默认主页每页显示8篇帖子，可自定义
 };
 
 export const navBarConfig: NavBarConfig = {

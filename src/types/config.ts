@@ -36,6 +36,11 @@ export type SiteConfig = {
 	};
 
 	favicon: Favicon[];
+
+	/**
+	 * 主页每页显示的帖子数量
+	 */
+	postsPerPage?: number;
 };
 
 export type Favicon = {
