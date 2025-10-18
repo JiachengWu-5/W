@@ -9,6 +9,6 @@ draft: false
 lang: ''
 ---
 
-![Ave Mujica (Arknights)](./images/avemujica_arknight.jpg)
+<!-- ![Ave Mujica (Arknights)](./images/avemujica_arknight.jpg) -->
 
 不推荐任何人去看番剧，只推荐粥改写的剧情，这就是正传👍
