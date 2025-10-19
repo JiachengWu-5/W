@@ -2,6 +2,10 @@
 
 一个小小的乌托邦
 
+是日更定矣，余拏一小舟，拥毳衣炉火，独往湖心亭看雪。
+
+—— 张岱《湖心亭看雪》
+
 <!-- ::github{repo="saicaca/fuwari"}
 
 > ### Sources of images used in this site
