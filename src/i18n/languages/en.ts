@@ -41,6 +41,7 @@ export const en: Translation = {
 	[Key.game]: "Game",
 	[Key.reading]: "Reading",
 	[Key.thinking]: "Thinking",
+	[Key.meme]: "Meme",
 	[Key.me]: "Me",
 	[Key.recommend]: "Recommend",
 };

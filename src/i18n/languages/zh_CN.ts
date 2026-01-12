@@ -42,5 +42,6 @@ export const zh_CN: Translation = {
 	[Key.reading]: "阅读",
 	[Key.recommend]: "安利",
 	[Key.thinking]: "胡思乱想",
+	[Key.meme]: "趣图",
 	[Key.me]: "我",
 };

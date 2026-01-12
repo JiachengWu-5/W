@@ -41,6 +41,7 @@ export const ko: Translation = {
 	[Key.game]: "게임",
 	[Key.reading]: "독서",
 	[Key.thinking]: "생각",
+	[Key.meme]: "밈",
 	[Key.me]: "나",
 	[Key.recommend]: "추천",
 };

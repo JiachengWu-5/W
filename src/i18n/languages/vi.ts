@@ -41,6 +41,7 @@ export const vi: Translation = {
 	[Key.game]: "Trò chơi",
 	[Key.reading]: "Đọc",
 	[Key.thinking]: "Suy nghĩ",
+	[Key.meme]: "Meme",
 	[Key.me]: "Tôi",
 	[Key.recommend]: "Gợi ý",
 };

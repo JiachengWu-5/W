@@ -46,6 +46,7 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Photo,
 		LinkPreset.Music,
 		LinkPreset.Recommend,
+		LinkPreset.Meme,
 		LinkPreset.Thinking,
 		LinkPreset.Me,
 		{

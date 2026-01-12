@@ -41,6 +41,7 @@ export const zh_TW: Translation = {
 	[Key.game]: "遊戲",
 	[Key.reading]: "閱讀",
 	[Key.thinking]: "胡思亂想",
+	[Key.meme]: "趣圖",
 	[Key.me]: "我",
 	[Key.recommend]: "安利",
 };

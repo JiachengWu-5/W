@@ -41,6 +41,7 @@ export const ja: Translation = {
 	[Key.game]: "ゲーム",
 	[Key.reading]: "読書",
 	[Key.thinking]: "考えごと",
+	[Key.meme]: "ミーム",
 	[Key.me]: "私",
 	[Key.recommend]: "おすすめ",
 };

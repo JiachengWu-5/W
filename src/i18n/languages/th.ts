@@ -41,6 +41,7 @@ export const th: Translation = {
 	[Key.game]: "เกม",
 	[Key.reading]: "การอ่าน",
 	[Key.thinking]: "ความคิด",
+	[Key.meme]: "มีม",
 	[Key.me]: "ฉัน",
 	[Key.recommend]: "แนะนำ",
 };

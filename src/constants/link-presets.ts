@@ -27,6 +27,10 @@ export const LinkPresets: { [key in LinkPreset]: NavBarLink } = {
 		name: i18n(I18nKey.recommend),
 		url: "/recommend/",
 	},
+	[LinkPreset.Meme]: {
+		name: i18n(I18nKey.meme),
+		url: "/meme/",
+	},
 	[LinkPreset.Thinking]: {
 		name: i18n(I18nKey.thinking),
 		url: "/thinking/",

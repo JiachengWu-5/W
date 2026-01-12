@@ -41,6 +41,7 @@ export const tr: Translation = {
 	[Key.game]: "Oyun",
 	[Key.reading]: "Okuma",
 	[Key.thinking]: "Düşünme",
+	[Key.meme]: "Meme",
 	[Key.me]: "Ben",
 	[Key.recommend]: "Tavsiye",
 };

@@ -38,6 +38,7 @@ enum I18nKey {
 	game = "game",
 	reading = "reading",
 	thinking = "thinking",
+	meme = "meme",
 	me = "me",
 	recommend = "recommend",
 }
